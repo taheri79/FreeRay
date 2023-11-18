@@ -1,6 +1,8 @@
-trojan://00b69860-7d85-11ee-8342-1239d0255272@de1.test3.net:443?encryption=none&flow=&headerType=none&security=tls&sni=www.unpkg.com&type=tcp#DE🇩🇪 | 221.57ms | 0️⃣1️⃣
-trojan://telegram-id-privatevpns@15.188.224.58:22222?encryption=none&flow=&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#FR🇫🇷 | 168.12ms | 0️⃣2️⃣
-trojan://telegram-id-privatevpns@13.36.121.210:22222?encryption=none&flow=&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#FR🇫🇷 | 139.28ms | 0️⃣3️⃣
-trojan://telegram-id-directvpn@51.20.225.210:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#FR🇫🇷 | 161.6ms | 0️⃣1️⃣
-trojan://telegram-id-directvpn@18.153.120.167:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#DE🇩🇪 | 148.94ms | 0️⃣2️⃣
-trojan://telegram-id-directvpn@18.195.186.181:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#DE🇩🇪 | 142.75ms | 0️⃣3️⃣
+trojan://00b69860-7d85-11ee-8342-1239d0255272@de1.test3.net:443?encryption=none&flow=&headerType=none&security=tls&sni=www.unpkg.com&type=tcp#DE🇩🇪 | 161.35ms | 0️⃣1️⃣
+trojan://telegram-id-privatevpns@15.188.224.58:22222?encryption=none&flow=&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#FR🇫🇷 | 127.89ms | 0️⃣2️⃣
+trojan://telegram-id-privatevpns@13.36.121.210:22222?encryption=none&flow=&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#FR🇫🇷 | 138.48ms | 0️⃣3️⃣
+trojan://telegram-id-privatevpns@13.41.234.243:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#GB🇬🇧 | 112.09ms | 0️⃣1️⃣
+trojan://telegram-id-privatevpns@34.246.117.239:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#IE🇮🇪 | 101.48ms | 0️⃣2️⃣
+trojan://telegram-id-directvpn@51.20.225.210:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#FR🇫🇷 | 139.15ms | 0️⃣1️⃣
+trojan://telegram-id-directvpn@18.153.120.167:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#DE🇩🇪 | 118.39ms | 0️⃣2️⃣
+trojan://telegram-id-directvpn@18.195.186.181:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#DE🇩🇪 | 137.73ms | 0️⃣3️⃣
