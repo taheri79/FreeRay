@@ -6,10 +6,10 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiJhMy5iY2JvdC5pbiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYTMuYmNib3QuaW4iLCJpZCI6ImNlOWFhZGM4LThjNmUtNDg2Ny1kMjQ3LTlhODRiNDY5YWMyNyIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6Ijg4ODAiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMTAuNThtcyB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-        "ping": 10.58,
-        "time": "2024-01-07 08:54:33",
-        "name": "US🇺🇸 | 10.58ms | 0️⃣1️⃣"
+        "config": "vmess://eyJhZGQiOiJhMy5iY2JvdC5pbiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYTMuYmNib3QuaW4iLCJpZCI6ImNlOWFhZGM4LThjNmUtNDg2Ny1kMjQ3LTlhODRiNDY5YWMyNyIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6Ijg4ODAiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgOS4yMW1zIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
+        "ping": 9.21,
+        "time": "2024-01-07 13:55:55",
+        "name": "US🇺🇸 | 9.21ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -18,46 +18,10 @@
             "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/yaney_01.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxODUuMjIuMTU0LjEyIiwidiI6MiwicHMiOiJSVVx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYSB8IDEzMS42MW1zIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJwb3J0IjoiMjk3MTUiLCJpZCI6IjhjNmRlMGIxLTdjMjAtNDViMi1lMzYzLWM1NTMwNmRiNTAyMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9",
-        "ping": 131.61,
-        "time": "2024-01-07 08:53:35",
-        "name": "RU🇷🇺 | 131.61ms | 0️⃣1️⃣"
-    },
-    {
-        "channel": {
-            "username": "forwardv2ray",
-            "title": "FORWARDV2RAY",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/forwardv2ray.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiJGUjMuaXJjZi5ldS5PUkciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkZSLmlyY2YuZXUuT1JHIiwiaWQiOiJkNjEyYmJmMy0xNGQwLTRkMWQtYTIxYy0xNjZlOThhM2I0OWMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0B4MnJheW5fdnBuQHgycmF5bl92cG5AeDJyYXluX3ZwbiIsInBvcnQiOiI4MDgwIiwicHMiOiJSRUxBWVx1ZDgzZFx1ZGVhOSB8IDEwMS45Mm1zIHwgMFx1ZmUwZlx1MjBlMzNcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-        "ping": 101.92,
-        "time": "2024-01-07 08:53:02",
-        "name": "RELAY🚩 | 101.92ms | 0️⃣3️⃣"
-    },
-    {
-        "channel": {
-            "username": "forwardv2ray",
-            "title": "FORWARDV2RAY",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/forwardv2ray.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiJVSzIuaXJjZi5ldS5PUkciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlVLLmlyY2YuZXUuT1JHIiwiaWQiOiJkNjEyYmJmMy0xNGQwLTRkMWQtYTIxYy0xNjZlOThhM2I0OWMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0B4MnJheW5fdnBuQHgycmF5bl92cG5AeDJyYXluX3ZwbiIsInBvcnQiOiI4MDgwIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDExMi42MW1zIHwgMFx1ZmUwZlx1MjBlMzJcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-        "ping": 112.61,
-        "time": "2024-01-07 08:53:02",
-        "name": "US🇺🇸 | 112.61ms | 0️⃣2️⃣"
-    },
-    {
-        "channel": {
-            "username": "forwardv2ray",
-            "title": "FORWARDV2RAY",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/forwardv2ray.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiJERTEuaXJjZi5ldS5PUkciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkRFLmlyY2YuZXUuT1JHIiwiaWQiOiJkNjEyYmJmMy0xNGQwLTRkMWQtYTIxYy0xNjZlOThhM2I0OWMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0B4MnJheW5fdnBuQHgycmF5bl92cG5AeDJyYXluX3ZwbiIsInBvcnQiOiI4MDgwIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDEwMS44bXMgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 101.8,
-        "time": "2024-01-07 08:53:02",
-        "name": "US🇺🇸 | 101.8ms | 0️⃣1️⃣"
+        "config": "vmess://eyJhZGQiOiIxODUuMjIuMTU0LjEyIiwidiI6MiwicHMiOiJSVVx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYSB8IDEyOC44Mm1zIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJwb3J0IjoiMjk3MTUiLCJpZCI6IjhjNmRlMGIxLTdjMjAtNDViMi1lMzYzLWM1NTMwNmRiNTAyMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9",
+        "ping": 128.82,
+        "time": "2024-01-07 13:54:53",
+        "name": "RU🇷🇺 | 128.82ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -66,10 +30,10 @@
             "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/v2ray_swhil.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoiam9pbi1zaG8tdG8uZnJlZXYyYWxwaGEuY2ZkIiwiaWQiOiJUZWxlZ3JhbS1WMnJheV9hbHBoYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAxMC4xNG1zIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 10.14,
-        "time": "2024-01-07 08:51:39",
-        "name": "US🇺🇸 | 10.14ms | 0️⃣1️⃣"
+        "config": "vmess://eyJhZGQiOiIxMDQuMjcuMTAyLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoiam9pbi1zaG8tdG8uZnJlZXYyYWxwaGEuY2ZkIiwiaWQiOiJUZWxlZ3JhbS1WMnJheV9hbHBoYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvP2VkPTIwNDgiLCJwb3J0IjoiODA4MCIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAxNDkuMDRtcyB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+        "ping": 149.04,
+        "time": "2024-01-07 13:53:05",
+        "name": "US🇺🇸 | 149.04ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -78,10 +42,10 @@
             "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/ShadowProxy66.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiI0NS4xNTUuMjQ5LjE1MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiOWQ1ZTY5ZDItNDZjZi00ODY1LTk1ZmUtYTJlZThjNTJhMDEzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiODAiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgNTMwLjg0bXMgfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-        "ping": 530.84,
-        "time": "2024-01-07 08:51:11",
-        "name": "US🇺🇸 | 530.84ms | 0️⃣2️⃣"
+        "config": "vmess://eyJhZGQiOiI4MS4xMi4yNy43IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImIzYzQ5YjUzLTJkNWQtNGQxMy1kMTk1LTc2ZDQ4YWVjY2QxMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjE5NzUiLCJwcyI6IklSXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IHwgMjg3Ljc4bXMgfCAwXHVmZTBmXHUyMGUzM1x1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+        "ping": 287.78,
+        "time": "2024-01-07 13:52:50",
+        "name": "IR🇮🇷 | 287.78ms | 0️⃣3️⃣"
     },
     {
         "channel": {
@@ -90,10 +54,22 @@
             "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/ShadowProxy66.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxMDQuMjEuNzUuMjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZi50b255bHVrLmxpbmsiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvb3BoZWxpYS5tb206NDQzXC9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiUkVMQVlcdWQ4M2RcdWRlYTkgfCA1NS42NW1zIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiY2YudG9ueWx1ay5saW5rIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 55.65,
-        "time": "2024-01-07 08:51:09",
-        "name": "RELAY🚩 | 55.65ms | 0️⃣1️⃣"
+        "config": "vmess://eyJhZGQiOiI0NS4xNTUuMjQ5LjE1MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiOWQ1ZTY5ZDItNDZjZi00ODY1LTk1ZmUtYTJlZThjNTJhMDEzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiODAiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgOTAyLjc3bXMgfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+        "ping": 902.77,
+        "time": "2024-01-07 13:52:45",
+        "name": "US🇺🇸 | 902.77ms | 0️⃣2️⃣"
+    },
+    {
+        "channel": {
+            "username": "ShadowProxy66",
+            "title": "ShadowProxy66",
+            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/ShadowProxy66.jpg"
+        },
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiIxMDQuMjEuNzUuMjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZi50b255bHVrLmxpbmsiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvb3BoZWxpYS5tb206NDQzXC9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiUkVMQVlcdWQ4M2RcdWRlYTkgfCA1OS4zOW1zIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiY2YudG9ueWx1ay5saW5rIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
+        "ping": 59.39,
+        "time": "2024-01-07 13:52:41",
+        "name": "RELAY🚩 | 59.39ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -102,10 +78,10 @@
             "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/oneclickvpnkeys.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxODguMTE0Ljk2LjMiLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9waGVsaWEubW9tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAxNTkuNjNtcyB8IDBcdWZlMGZcdTIwZTMzXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6Im9waGVsaWEubW9tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 159.63,
-        "time": "2024-01-07 08:50:18",
-        "name": "US🇺🇸 | 159.63ms | 0️⃣3️⃣"
+        "config": "vmess://eyJhZGQiOiJERTEuaXJjZi5ldS5PUkciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkRFLmlyY2YuZXUuT1JHIiwiaWQiOiJkNjEyYmJmMy0xNGQwLTRkMWQtYTIxYy0xNjZlOThhM2I0OWMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0B4MnJheW5fdnBuQHgycmF5bl92cG5AeDJyYXluX3ZwbiIsInBvcnQiOiI4MDgwIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDIuMjJtcyB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+        "ping": 2.22,
+        "time": "2024-01-07 13:51:27",
+        "name": "US🇺🇸 | 2.22ms | 0️⃣2️⃣"
     },
     {
         "channel": {
@@ -114,70 +90,70 @@
             "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/oneclickvpnkeys.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxNS4yMDQuMjQ1LjE2OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMDM5Mzg4OS0wYTBmLTQ3ZDYtYmE0My1mZTM4YTdmMjNkOTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUxNTc0IiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDMuMTdtcyB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-        "ping": 3.17,
-        "time": "2024-01-07 08:50:16",
-        "name": "US🇺🇸 | 3.17ms | 0️⃣2️⃣"
+        "config": "vmess://eyJhZGQiOiJrb202NDV5ai5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjczODhhNWUtOGFlMi00ZTVhLWJkYmUtYjhiMjllMTcyZWMyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMzI5MDIiLCJwcyI6Ik5aXHVkODNjXHVkZGYzXHVkODNjXHVkZGZmIHwgMjYzLjFtcyB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+        "ping": 263.1,
+        "time": "2024-01-07 13:51:25",
+        "name": "NZ🇳🇿 | 263.1ms | 0️⃣1️⃣"
     },
     {
         "channel": {
-            "username": "oneclickvpnkeys",
-            "title": "OneClick VPN🔑v2rayNG🔑Matsuri🔑SagerNet🔑",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/oneclickvpnkeys.jpg"
+            "username": "free4allVPN",
+            "title": "Shadowsocks Outline Vmess Open VPN",
+            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/free4allVPN.jpg"
+        },
+        "type": "ss",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCUGNnejg3allLaEFmQnNLTTlzVEZZ@46.250.237.91:443#GB🇬🇧 | 226.58ms | 0️⃣2️⃣",
+        "ping": 226.58,
+        "time": "2024-01-07 13:50:10",
+        "name": "GB🇬🇧 | 226.58ms | 0️⃣2️⃣"
+    },
+    {
+        "channel": {
+            "username": "free4allVPN",
+            "title": "Shadowsocks Outline Vmess Open VPN",
+            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/free4allVPN.jpg"
+        },
+        "type": "ss",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbVBzeURiTlVFaUpabjB0allob0Fa@192.18.150.179:443#CA🇨🇦 | 15.5ms | 0️⃣1️⃣",
+        "ping": 15.5,
+        "time": "2024-01-07 13:50:08",
+        "name": "CA🇨🇦 | 15.5ms | 0️⃣1️⃣"
+    },
+    {
+        "channel": {
+            "username": "azadi_az_inja_migzare",
+            "title": "آزادی از اینجا میگذره",
+            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/azadi_az_inja_migzare.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiJrb202NDV5ai5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhlN2MwN2EtNGMzMi00ZmM3LTkxNjktMDczNjY5NDE2MzMxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMzA4NzAiLCJwcyI6Ik5aXHVkODNjXHVkZGYzXHVkODNjXHVkZGZmIHwgMTI2LjQzbXMgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-        "ping": 126.43,
-        "time": "2024-01-07 08:50:15",
-        "name": "NZ🇳🇿 | 126.43ms | 0️⃣1️⃣"
+        "config": "vmess://eyJhZGQiOiJGUjMuaXJjZi5ldS5PUkciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkZSLmlyY2YuZXUuT1JHIiwiaWQiOiJkNjEyYmJmMy0xNGQwLTRkMWQtYTIxYy0xNjZlOThhM2I0OWMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0B4MnJheW5fdnBuQHgycmF5bl92cG5AeDJyYXluX3ZwbiIsInBvcnQiOiI4MDgwIiwicHMiOiJSRUxBWVx1ZDgzZFx1ZGVhOSB8IDEyNy4xN21zIHwgMFx1ZmUwZlx1MjBlMzNcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+        "ping": 127.17,
+        "time": "2024-01-07 13:49:43",
+        "name": "RELAY🚩 | 127.17ms | 0️⃣3️⃣"
     },
     {
         "channel": {
-            "username": "forwardv2ray",
-            "title": "FORWARDV2RAY",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/forwardv2ray.jpg"
+            "username": "azadi_az_inja_migzare",
+            "title": "آزادی از اینجا میگذره",
+            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/azadi_az_inja_migzare.jpg"
         },
-        "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QW9XenVLdk5PUHJzTGM0ZkFFT25v@51.142.73.20:6961#GB🇬🇧 | 74.92ms | 0️⃣1️⃣",
-        "ping": 74.92,
-        "time": "2024-01-07 08:49:59",
-        "name": "GB🇬🇧 | 74.92ms | 0️⃣1️⃣"
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiJVSzIuaXJjZi5ldS5PUkciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlVLLmlyY2YuZXUuT1JHIiwiaWQiOiJkNjEyYmJmMy0xNGQwLTRkMWQtYTIxYy0xNjZlOThhM2I0OWMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0B4MnJheW5fdnBuQHgycmF5bl92cG5AeDJyYXluX3ZwbiIsInBvcnQiOiI4MDgwIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDg0Ljg1bXMgfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0=",
+        "ping": 84.85,
+        "time": "2024-01-07 13:49:41",
+        "name": "US🇺🇸 | 84.85ms | 0️⃣2️⃣"
     },
     {
         "channel": {
-            "username": "free4allVPN",
-            "title": "Shadowsocks Outline Vmess Open VPN",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/free4allVPN.jpg"
+            "username": "azadi_az_inja_migzare",
+            "title": "آزادی از اینجا میگذره",
+            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/azadi_az_inja_migzare.jpg"
         },
-        "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUkxFYzRBeE1ndHdQT3JuQXIzWW9q@54.171.29.16:443#IE🇮🇪 | 108.24ms | 0️⃣3️⃣",
-        "ping": 108.24,
-        "time": "2024-01-07 08:49:23",
-        "name": "IE🇮🇪 | 108.24ms | 0️⃣3️⃣"
-    },
-    {
-        "channel": {
-            "username": "free4allVPN",
-            "title": "Shadowsocks Outline Vmess Open VPN",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/free4allVPN.jpg"
-        },
-        "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCUGNnejg3allLaEFmQnNLTTlzVEZZ@46.250.237.91:443#GB🇬🇧 | 224.79ms | 0️⃣2️⃣",
-        "ping": 224.79,
-        "time": "2024-01-07 08:49:21",
-        "name": "GB🇬🇧 | 224.79ms | 0️⃣2️⃣"
-    },
-    {
-        "channel": {
-            "username": "free4allVPN",
-            "title": "Shadowsocks Outline Vmess Open VPN",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/free4allVPN.jpg"
-        },
-        "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbVBzeURiTlVFaUpabjB0allob0Fa@192.18.150.179:443#CA🇨🇦 | 16.01ms | 0️⃣1️⃣",
-        "ping": 16.01,
-        "time": "2024-01-07 08:49:19",
-        "name": "CA🇨🇦 | 16.01ms | 0️⃣1️⃣"
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiJERTEuaXJjZi5ldS5PUkciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkRFLmlyY2YuZXUuT1JHIiwiaWQiOiJkNjEyYmJmMy0xNGQwLTRkMWQtYTIxYy0xNjZlOThhM2I0OWMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0B4MnJheW5fdnBuQHgycmF5bl92cG5AeDJyYXluX3ZwbiIsInBvcnQiOiI4MDgwIiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDEwNC41N21zIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+        "ping": 104.57,
+        "time": "2024-01-07 12:33:20",
+        "name": "US🇺🇸 | 104.57ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -186,70 +162,10 @@
             "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/PrivateVPNs.jpg"
         },
         "type": "trojan",
-        "config": "trojan://telegram-id-privatevpns@34.252.9.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#IE🇮🇪 | 130.83ms | 0️⃣2️⃣",
-        "ping": 130.83,
-        "time": "2024-01-06 23:27:19",
-        "name": "IE🇮🇪 | 130.83ms | 0️⃣2️⃣"
-    },
-    {
-        "channel": {
-            "username": "DirectVPN",
-            "title": "V2ray VPN",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/DirectVPN.jpg"
-        },
-        "type": "trojan",
-        "config": "trojan://telegram-id-directvpn@18.153.175.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#DE🇩🇪 | 103.63ms | 0️⃣2️⃣",
-        "ping": 103.63,
-        "time": "2024-01-06 23:27:16",
-        "name": "DE🇩🇪 | 103.63ms | 0️⃣2️⃣"
-    },
-    {
-        "channel": {
-            "username": "DirectVPN",
-            "title": "V2ray VPN",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/DirectVPN.jpg"
-        },
-        "type": "trojan",
-        "config": "trojan://telegram-id-directvpn@18.153.134.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#DE🇩🇪 | 87.03ms | 0️⃣1️⃣",
-        "ping": 87.03,
-        "time": "2024-01-06 22:56:04",
-        "name": "DE🇩🇪 | 87.03ms | 0️⃣1️⃣"
-    },
-    {
-        "channel": {
-            "username": "PrivateVPNs",
-            "title": "V2ray | Vmess | Trojan | Vless",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/PrivateVPNs.jpg"
-        },
-        "type": "trojan",
-        "config": "trojan://telegram-id-privatevpns@18.202.12.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#IE🇮🇪 | 91.54ms | 0️⃣1️⃣",
-        "ping": 91.54,
-        "time": "2024-01-06 22:50:09",
-        "name": "IE🇮🇪 | 91.54ms | 0️⃣1️⃣"
-    },
-    {
-        "channel": {
-            "username": "v2ray1_ng",
-            "title": "V2RayNg & Napsternet V",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/v2ray1_ng.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxNzIuNjYuNDYuNTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiIiLCJpZCI6IjA4ZWM2YTA2LThjMTUtNDA2OS1hNzgxLThjNzI1YTMwYjdlNyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IkRFXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIHwgNDg1LjkxbXMgfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJteS50b290ZXJzLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Im11bHRpIiwidiI6IjIifQ==",
-        "ping": 485.91,
-        "time": "2024-01-06 21:45:17",
-        "name": "DE🇩🇪 | 485.91ms | 0️⃣2️⃣"
-    },
-    {
-        "channel": {
-            "username": "v2Line",
-            "title": "v2Line VPN ● v2rayNG & Xray Proxy Servers",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/v2Line.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsInBzIjoiREVcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgfCAxMjguNzltcyB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwiYWRkIjoiZWUxLnh2MnJheS5uZXQiLCJwb3J0IjoiODAiLCJpZCI6IjgzMDE4NTgwLTU4Y2UtNDY0Zi1iNzVjLTJhMTMzMWE4ZjAxNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJlZTEueHYycmF5Lm5ldCIsInBhdGgiOiJcL3ZtZXNzIiwidGxzIjoibm9uZSIsInNuaSI6ImVlMS54djJyYXkubmV0IiwiYWxwbiI6IiIsImZwIjoiIn0=",
-        "ping": 128.79,
-        "time": "2024-01-06 21:30:13",
-        "name": "DE🇩🇪 | 128.79ms | 0️⃣2️⃣"
+        "config": "trojan://telegram-id-privatevpns@18.184.2.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#DE🇩🇪 | 124.89ms | 0️⃣1️⃣",
+        "ping": 124.89,
+        "time": "2024-01-07 12:15:09",
+        "name": "DE🇩🇪 | 124.89ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -258,10 +174,22 @@
             "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/OutlineVpnOfficial.jpg"
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNUNFaWViU3VTbDJxRmtmRTR6dEcy@45.8.147.80:5741#SE🇸🇪 | 100.02ms | 0️⃣2️⃣",
-        "ping": 100.02,
-        "time": "2024-01-06 21:30:05",
-        "name": "SE🇸🇪 | 100.02ms | 0️⃣2️⃣"
+        "config": "ss://YWVzLTI1Ni1nY206NTM0MDYxYzAtMTg1NC00OWFkLTlhZmMtZDMxODdiMTgyMDBh@ua-full.privateip.net:8443#UA🇺🇦 | 190.01ms | 0️⃣3️⃣",
+        "ping": 190.01,
+        "time": "2024-01-07 09:30:24",
+        "name": "UA🇺🇦 | 190.01ms | 0️⃣3️⃣"
+    },
+    {
+        "channel": {
+            "username": "OutlineVpnOfficial",
+            "title": "Outline VPN | Shadowsocks & v2rayNG Proxy Servers",
+            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/OutlineVpnOfficial.jpg"
+        },
+        "type": "ss",
+        "config": "ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#TR🇹🇷 | 166.73ms | 0️⃣2️⃣",
+        "ping": 166.73,
+        "time": "2024-01-07 03:32:13",
+        "name": "TR🇹🇷 | 166.73ms | 0️⃣2️⃣"
     },
     {
         "channel": {
@@ -270,34 +198,10 @@
             "logo": null
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg==@213.183.44.17:8388#LT🇱🇹 | 95.68ms | 0️⃣1️⃣",
-        "ping": 95.68,
-        "time": "2024-01-06 21:13:46",
-        "name": "LT🇱🇹 | 95.68ms | 0️⃣1️⃣"
-    },
-    {
-        "channel": {
-            "username": "OutlineVpnOfficial",
-            "title": "Outline VPN | Shadowsocks & v2rayNG Proxy Servers",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/OutlineVpnOfficial.jpg"
-        },
-        "type": "ss",
-        "config": "ss://YWVzLTI1Ni1nY206RHZNZVkvUzhjM2hzU1FxckwxYVdibGFIc2NFVlEwM2w1bEZnbmVNeDU2Yz0=@sg-ss.ipracevpn.com:2443#SG🇸🇬 | 241.66ms | 0️⃣1️⃣",
-        "ping": 241.66,
-        "time": "2024-01-06 15:32:07",
-        "name": "SG🇸🇬 | 241.66ms | 0️⃣1️⃣"
-    },
-    {
-        "channel": {
-            "username": "v2Line",
-            "title": "v2Line VPN ● v2rayNG & Xray Proxy Servers",
-            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/v2Line.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsInBzIjoiREVcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgfCAxNTcuNTltcyB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwiYWRkIjoidWsxLnh2MnJheS5uZXQiLCJwb3J0IjoiODAiLCJpZCI6IjNiODcxMTE3LTNhNGUtNGRmMi1hOGFmLTA4ZWNjN2RiNjg4NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ1azEueHYycmF5Lm5ldCIsInBhdGgiOiJcL3ZtZXNzIiwidGxzIjoibm9uZSIsInNuaSI6InVrMS54djJyYXkubmV0IiwiYWxwbiI6IiIsImZwIjoiIn0=",
-        "ping": 157.59,
-        "time": "2024-01-05 15:31:19",
-        "name": "DE🇩🇪 | 157.59ms | 0️⃣1️⃣"
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg==@213.183.44.17:8388#LT🇱🇹 | 124.52ms | 0️⃣1️⃣",
+        "ping": 124.52,
+        "time": "2024-01-06 22:31:55",
+        "name": "LT🇱🇹 | 124.52ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -306,10 +210,46 @@
             "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/v2ray1_ng.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxNzIuNjYuNDYuNTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiIiLCJpZCI6IjA4ZWM2YTA2LThjMTUtNDA2OS1hNzgxLThjNzI1YTMwYjdlNyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IkRFXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIHwgODkyLjk2bXMgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJteS50b290ZXJzLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Im11bHRpIiwidiI6IjIifQ==",
-        "ping": 892.96,
+        "config": "vmess://eyJhZGQiOiIxNzIuNjYuNDYuNTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiIiLCJpZCI6IjA4ZWM2YTA2LThjMTUtNDA2OS1hNzgxLThjNzI1YTMwYjdlNyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IkRFXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIHwgMjc4LjY1bXMgfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJteS50b290ZXJzLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Im11bHRpIiwidiI6IjIifQ==",
+        "ping": 278.65,
+        "time": "2024-01-06 21:45:17",
+        "name": "DE🇩🇪 | 278.65ms | 0️⃣2️⃣"
+    },
+    {
+        "channel": {
+            "username": "OutlineVpnOfficial",
+            "title": "Outline VPN | Shadowsocks & v2rayNG Proxy Servers",
+            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/OutlineVpnOfficial.jpg"
+        },
+        "type": "ss",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNUNFaWViU3VTbDJxRmtmRTR6dEcy@45.8.147.80:5741#SE🇸🇪 | 107.64ms | 0️⃣1️⃣",
+        "ping": 107.64,
+        "time": "2024-01-06 21:30:05",
+        "name": "SE🇸🇪 | 107.64ms | 0️⃣1️⃣"
+    },
+    {
+        "channel": {
+            "username": "iP_CF",
+            "title": "| IP_CF | Channel",
+            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/iP_CF.jpg"
+        },
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiIxOTIuMjI3LjE3NC43IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhjNDAwYTVmLWRjOGItNDE5Ny05MmVkLTA5OGQ1ZmE3ZTIxNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgzMzIiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMTcuMjdtcyB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+        "ping": 17.27,
+        "time": "2024-01-06 05:09:26",
+        "name": "US🇺🇸 | 17.27ms | 0️⃣1️⃣"
+    },
+    {
+        "channel": {
+            "username": "v2ray1_ng",
+            "title": "V2RayNg & Napsternet V",
+            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/v2ray1_ng.jpg"
+        },
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiIxNzIuNjYuNDYuNTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiZmlyZWZveCIsImhvc3QiOiIiLCJpZCI6IjA4ZWM2YTA2LThjMTUtNDA2OS1hNzgxLThjNzI1YTMwYjdlNyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IkRFXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIHwgODk1LjQ1bXMgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJteS50b290ZXJzLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Im11bHRpIiwidiI6IjIifQ==",
+        "ping": 895.45,
         "time": "2024-01-04 22:20:21",
-        "name": "DE🇩🇪 | 892.96ms | 0️⃣1️⃣"
+        "name": "DE🇩🇪 | 895.45ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -318,10 +258,10 @@
             "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/VmessProtocol.jpg"
         },
         "type": "trojan",
-        "config": "trojan://74811f39-8f69-4334-9e0f-a8a25d7413c1@www.casperco.online:993?security=tls&headerType=none&type=tcp#DE🇩🇪 | 98.72ms | 0️⃣1️⃣",
-        "ping": 98.72,
+        "config": "trojan://74811f39-8f69-4334-9e0f-a8a25d7413c1@www.casperco.online:993?security=tls&headerType=none&type=tcp#DE🇩🇪 | 101.43ms | 0️⃣1️⃣",
+        "ping": 101.43,
         "time": "2024-01-03 14:58:51",
-        "name": "DE🇩🇪 | 98.72ms | 0️⃣1️⃣"
+        "name": "DE🇩🇪 | 101.43ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -330,10 +270,22 @@
             "logo": null
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QW9XenVLdk5PUHJzTGM0ZkFFT25v@51.142.73.20:6961#GB🇬🇧 | 74.98ms | 0️⃣1️⃣",
-        "ping": 74.98,
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QW9XenVLdk5PUHJzTGM0ZkFFT25v@51.142.73.20:6961#GB🇬🇧 | 75ms | 0️⃣2️⃣",
+        "ping": 75,
+        "time": "2023-12-31 20:15:25",
+        "name": "GB🇬🇧 | 75ms | 0️⃣2️⃣"
+    },
+    {
+        "channel": {
+            "username": "servermomo",
+            "title": null,
+            "logo": null
+        },
+        "type": "ss",
+        "config": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.54.108.222:8119#US🇺🇸 | 15.09ms | 0️⃣1️⃣",
+        "ping": 15.09,
         "time": "2023-12-30 19:43:43",
-        "name": "GB🇬🇧 | 74.98ms | 0️⃣1️⃣"
+        "name": "US🇺🇸 | 15.09ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -342,22 +294,10 @@
             "logo": null
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#GB🇬🇧 | 152.45ms | 0️⃣2️⃣",
-        "ping": 152.45,
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#GB🇬🇧 | 110.68ms | 0️⃣1️⃣",
+        "ping": 110.68,
         "time": "2023-12-16 09:43:04",
-        "name": "GB🇬🇧 | 152.45ms | 0️⃣2️⃣"
-    },
-    {
-        "channel": {
-            "username": "vmess_vless_pro",
-            "title": null,
-            "logo": null
-        },
-        "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧 | 129.55ms | 0️⃣1️⃣",
-        "ping": 129.55,
-        "time": "2023-12-15 18:25:19",
-        "name": "GB🇬🇧 | 129.55ms | 0️⃣1️⃣"
+        "name": "GB🇬🇧 | 110.68ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -366,10 +306,10 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess://eyJhZGQiOiJ3YXlubi5tYWtldXAiLCJhaWQiOiIwIiwiaG9zdCI6IndheW5uLm1ha2V1cCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlJFTEFZXHVkODNkXHVkZWE5IHwgMTAwLjQzbXMgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=",
-        "ping": 100.43,
+        "config": "vmess://eyJhZGQiOiJ3YXlubi5tYWtldXAiLCJhaWQiOiIwIiwiaG9zdCI6IndheW5uLm1ha2V1cCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMjI0Ljc2bXMgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=",
+        "ping": 224.76,
         "time": "2023-09-30 15:30:00",
-        "name": "RELAY🚩 | 100.43ms | 0️⃣1️⃣"
+        "name": "US🇺🇸 | 224.76ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -378,10 +318,10 @@
             "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/V2rayngninja.jpg"
         },
         "type": "ss",
-        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#GB🇬🇧 | 101.28ms | 0️⃣1️⃣",
-        "ping": 101.28,
-        "time": "2023-09-27 08:36:47",
-        "name": "GB🇬🇧 | 101.28ms | 0️⃣1️⃣"
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#GB🇬🇧 | 106.19ms | 0️⃣1️⃣",
+        "ping": 106.19,
+        "time": "2023-09-26 20:50:40",
+        "name": "GB🇬🇧 | 106.19ms | 0️⃣1️⃣"
     },
     {
         "channel": {
@@ -390,9 +330,9 @@
             "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/bright_vpn.jpg"
         },
         "type": "ss",
-        "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#GB🇬🇧 | 80.44ms | 0️⃣1️⃣",
-        "ping": 80.44,
+        "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#GB🇬🇧 | 80.11ms | 0️⃣1️⃣",
+        "ping": 80.11,
         "time": "2023-09-09 00:02:36",
-        "name": "GB🇬🇧 | 80.44ms | 0️⃣1️⃣"
+        "name": "GB🇬🇧 | 80.11ms | 0️⃣1️⃣"
     }
 ]
