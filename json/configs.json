@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "channel": {
+            "username": "PrivateVPNs",
+            "title": "V2ray | Vmess | Trojan | Vless",
+            "logo": "https://raw.githubusercontent.com/taheri79/V2rayCollector/main/modules/channels/PrivateVPNs.jpg"
+        },
+        "type": "trojan",
+        "config": "trojan://telegram-id-privatevpns@52.47.74.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#FR🇫🇷 | 102.52ms | 0️⃣1️⃣",
+        "ping": 102.52,
+        "time": "2024-06-27 19:21:52",
+        "name": "FR🇫🇷 | 102.52ms | 0️⃣1️⃣"
+    }
+]
