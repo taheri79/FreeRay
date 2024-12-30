@@ -184,7 +184,7 @@ vless://Parsashonam-141@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=no
 vless://xsv2ray xsv2ray@speedtest.net:443?path=/www.speedtest.net?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=zedboskot.com&fp=firefox&type=ws&sni=speedtest.net
 vless://Xsv2Ray@speedtest.net:443?path=/home()nginx()?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=xs2ray.com&fp=firefox&type=ws&sni=speedtest.net
 vless://2d7385cc-a954-4b4e-f441-f75bb3dcb879@hmahdi11.varzesh3.ru:18648?mode=gun&security=none&encryption=none&type=grpc
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.210.79.128:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.253.143:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk
 vless://0132f1cf-f66c-4252-a052-3aa4edade4ec@151.101.3.8:80?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=443&security=none&encryption=none&host=Tehranc1.Org&type=ws
 vless://6ebc5b56-e760-43a1-9055-c7923a6139dd@151.101.3.8:80?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=443&security=none&encryption=none&host=Tehranc2.Org&type=ws
 vless://da34dd8d-6977-4839-a87b-cea3932578d7@151.101.3.8:80?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=443&security=none&encryption=none&host=Tehranc3.Org&type=ws
@@ -702,8 +702,6 @@ vless://31dfe29f-8ae1-4284-aa84-b1869b812e28@92.242.220.21:58021?security=none&e
 vless://14653802-4435-41ef-9210-64e4293f28b9@172.232.149.72:17123?security=none&encryption=none&headerType=none&type=tcp
 vless://37ec7228-f4ea-4820-84ea-d4f101575851@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=hvwrfuerhetitugj44yhrthj.com&type=ws&sni=pscresearch.faculty.ucdavis.edu
 vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@151.101.194.228:443?path=ws/?ed=2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu
-vless://2a02a9a8-c952-401d-bb45-2c12c4c056ac@151.101.3.8:80?security=none&type=ws&host=External_Net.org&path=?=9090
-vless://2a02a9a8-c952-401d-bb45-2c12c4c056ac@151.101.3.8:80?path=?=9090&security=none&encryption=none&host=External_Net.org&type=ws
 vless://ed93fd56-8b30-4a55-8a8d-234cfa5287af@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none
 vless://5346aa00-8750-4c50-b3bb-91f19c7d6dc9@91.107.169.6:443?flow=xtls-rprx-vision&serviceName=
 vless://ed93fd56-8b30-4a55-8a8d-234cfa5287af@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none
@@ -713,6 +711,16 @@ vless://tel--ZEDMODEON@live.skornorth.com:443?path=/@ZEDMODEON-ZEDMODEON@ZEDMODE
 vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=isa.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu
 vless://TELEGRAM-NUFiLTER@theatlantic.com:443?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=tls&alpn=h2,http/1.1&encryption=none&host=Doogh-nufilter.com&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu
 vless://5346aa00-8750-4c50-b3bb-91f19c7d6dc9@91.107.169.6:443?flow=xtls-rprx-vision&serviceName=
+vless://ed93fd56-8b30-4a55-8a8d-234cfa5287af@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=isa.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu
+vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=karafarini.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=irantvto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu
+vless://ed93fd56-8b30-4a55-8a8d-234cfa5287af@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none
+vless://5346aa00-8750-4c50-b3bb-91f19c7d6dc9@91.107.169.6:443?flow=xtls-rprx-vision&serviceName=
+vless://telegram-id-ArV2ray@151.101.194.133:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=12.irfrn6sn.net&fp=chrome&type=ws&sni=mio.splashthat.com
+vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=v2.fxpw8ls.ir&type=ws
+vless://81d6bfab-8868-4655-8c8e-5e9e488b36c6@fishlab.ucdavis.edu:443?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE?ed=2560&security=tls&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu
+vless://ed93fd56-8b30-4a55-8a8d-234cfa5287af@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none
 vless://854e19fc-bfdd-4656-982a-d5576b9fcbdf@77.221.154.111:57423?type=tcp&security=none
 vless://4b3b2137-bead-4540-a90f-46017d0540a4@77.221.154.111:46647?type=tcp&security=none
 vless://b37bc820-b959-4811-a0a1-27d319a22d7d@77.221.154.111:43035?type=tcp&security=none
@@ -821,9 +829,7 @@ trojan://telegram-id-privatevpns@54.77.155.56:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@52.214.131.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
 trojan://telegram-id-privatevpns@13.50.159.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
 trojan://telegram-id-privatevpns@16.170.103.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
-trojan://telegram-id-privatevpns@18.159.67.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
 trojan://telegram-id-privatevpns@18.153.143.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
-trojan://telegram-id-privatevpns@51.44.134.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
 trojan://telegram-id-privatevpns@52.47.207.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
 trojan://telegram-id-privatevpns@13.43.233.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
 trojan://telegram-id-privatevpns@13.42.194.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
@@ -844,6 +850,7 @@ trojan://telegram-id-directvpn@51.20.231.37:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@16.170.4.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
 trojan://telegram-id-directvpn@35.157.74.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
 trojan://telegram-id-directvpn@18.185.29.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko=@159.65.149.72:51348
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbUZsTURKaA==@95.164.4.238:8388
